@@ -1,4 +1,4 @@
-**Name:**  RAMESHWAR RATHOD
+**Name:**   LOKESH PATIL
 
 **Company:** CODTECH IT SOLUTIONS
 
@@ -12,11 +12,16 @@
 **Mentor:** Muzammil Ahmed
 
 ### Overview of the Project
+Create a personal portfolio website to showcase your projects, skills, and experience. This project helps you learn HTML, CSS, and basic JavaScript. Design a responsive layout using CSS Grid or Flexbox. Implement a navigation menu and multiple sections (About, Projects, Contact).
+
 The To-Do List Application with Local Storage is a simple, user-friendly web application designed to help users manage their daily tasks effectively. The application allows users to create, view, edit, and delete tasks, with all data being stored locally in the browser. This ensures that tasks persist even when the user closes the browser or reloads the page.
 
 ### Objective
 The primary objective of this project is to create a functional to-do list application that allows users to:
-
+Create a personal portfolio website to showcase your projects, skills, and
+experience. This project helps you learn HTML, CSS, and basic JavaScript.
+Design a responsive layout using CSS Grid or Flexbox. Implement a navigation
+menu and multiple sections (About, Projects, Contact).
 Add new tasks to their to-do list.
 View existing tasks in a clear and organized manner.
 Edit tasks to update or modify their content.
