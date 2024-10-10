@@ -1,13 +1,12 @@
-**Name:**   LOKESH PATIL
+**Name:**   PIYUSH MAHAJAN
 
 **Company:** CODTECH IT SOLUTIONS
 
-**ID:** CT08DS7653
+**ID:** CT08DS8070
 
 **Domain:** FRONTEND DEVELOPMENT
 
-**Duration:** AUGUST 30th, 2024 to SEPTEMBER
- 30th, 2024.
+**Duration:** SEPTEMBER 5th, 2024 to OCTOBER 5th, 2024
 
 **Mentor:** Muzammil Ahmed
 
